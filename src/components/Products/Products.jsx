@@ -39,7 +39,7 @@ const Products = () => {
                 <div className="shopNow">Shop Now</div>
               </div>
 
-              <img src={product.img} alt="image" className="img-p" />
+              <img src={product.img} alt="jesussss" className="img-p" />
             </div>
           ))}
         </div>
